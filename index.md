@@ -5,6 +5,9 @@
 Youli Zhao | Hongye Jing | Keqiang Yan
 
 
+
+
+
 ### Let's paly with images!
 
 
@@ -27,6 +30,6 @@ TO BE CONTINUE...
 
 
 ### Contact
-Youli Zhao - QuellaYouli@tamu.edu
-Keqiang Yan - 
-Hongye Jing - 
+-Youli Zhao ->  QuellaYouli@tamu.edu
+-Keqiang Yan ->  
+-Hongye Jing -> 
