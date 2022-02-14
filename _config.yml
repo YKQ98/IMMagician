@@ -1,6 +1,4 @@
 theme: jekyll-theme-minimal
-   # Author 配置博主信息
-author: '赵楠'
-nickname: 'leozhao0202'
-bio: ' 热爱研究技术 & 深挖历史<p>简单乐观 最求完美'
-avatar: 'assets/img/head.jpg'
+
+title: Team 2: IMMagician@CSCE647
+description: The small site for Image Synthesis @ Texas A&M
