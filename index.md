@@ -5,7 +5,7 @@
 Youli Zhao | Hongye Jing | Keqiang Yan
 
 
-![alt text](https://github.com/Mooler0410/IMMagician/blob/gh-pages/images.jpg)
+![alt text](./images.jpg)
 
 
 
