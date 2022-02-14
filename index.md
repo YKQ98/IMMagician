@@ -30,6 +30,7 @@ TO BE CONTINUE...
 
 
 ### Contact
--Youli Zhao ->  QuellaYouli@tamu.edu
--Keqiang Yan ->  
--Hongye Jing -> 
+***
+* Youli Zhao: QuellaYouli@tamu.edu
+* Keqiang Yan:
+* Hongye Jing:
