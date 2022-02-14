@@ -1,7 +1,7 @@
 ## Welcome to [Group2](https://github.com/Mooler0410/IMMagician/edit/gh-pages/index.md)!
 
 
-### Team members: 
+### Team Members: 
 Youli Zhao | Hongye Jing | Keqiang Yan
 
 
