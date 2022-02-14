@@ -5,10 +5,7 @@
 Youli Zhao | Hongye Jing | Keqiang Yan
 
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
+### Let's paly with images!
 
 
 ```markdown
@@ -19,6 +16,7 @@ Project 1:
 ```
 Project 2: 
 ```
+
 ```
 Project 3: 
 ```
@@ -27,9 +25,6 @@ Project 3:
 TO BE CONTINUE...
 ```
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Mooler0410/IMMagician/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### Contact
 Youli Zhao - QuellaYouli@tamu.edu
